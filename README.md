@@ -123,6 +123,20 @@ I believe real learning happens by building, testing, debugging, and improving a
 
 ---
 
+## 📊 GitHub Statistics
+
+[![GitHub Stats](https://ghstats.dev/api/card?username=DaryaGh&theme=tokyonight&hide=stars,followers)](https://github.com/DaryaGh)
+
+## 💻 Most Used Languages
+
+[![Top Languages](https://ghstats.dev/api/langs?username=DaryaGh&theme=tokyonight&layout=compact&max_langs=8)](https://github.com/DaryaGh)
+
+## 📈 Contribution Activity
+
+![Contribution Activity](https://ghstats.dev/api/sparkline?username=DaryaGh&days=90&width=700)
+
+---
+
 ## 📫 Connect With Me
 
 - GitHub: [DaryaGh](https://github.com/DaryaGh/)
