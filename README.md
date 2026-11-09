@@ -163,21 +163,9 @@ A real-world corporate website developed and maintained for a food production an
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaryaGh&theme=github-compact&hide_border=true)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DaryaGh&theme=github-dark-blue&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DaryaGh&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
